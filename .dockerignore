@@ -1,0 +1,6 @@
+/db.sqlite3
+.idea
+venv
+**/.git
+.gitignore
+.vscode

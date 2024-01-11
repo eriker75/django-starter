@@ -1,0 +1,8 @@
+flake8==7.0.0
+black==23.12.1
+isort==5.13.2
+watchfiles==0.21.0
+pytest-django==4.7.0
+pytest-factoryboy==2.6.0
+Faker==22.2.0
+pytest-cov==4.1.0
